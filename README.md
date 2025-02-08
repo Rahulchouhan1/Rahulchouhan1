@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me:
-- 🎓 BCA Student at *S.S. Jain Subodh P.G. College*  
+- 🎓 BCA 2nd Year Student at *S.S. Jain Subodh P.G. College*  
 - 🔍 Currently exploring *SQL, Python, Pandas, and NumPy*  
 - 📩 Contact Me: rahulmailbox2204@gmail.com
 
