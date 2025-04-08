@@ -7,7 +7,7 @@
 
 ## 🚀 About Me:
 - 🎓 BCA 2nd Year Student at *S.S. Jain Subodh P.G. College*  
-- 🔍 Currently exploring *SQL, Python, Pandas, and NumPy*  
+- 🔍 Currently exploring *SQL, Python, Pyspark Pandas, and NumPy*  
 - 📩 Contact Me: rahulmailbox2204@gmail.com
 
 ---
@@ -15,7 +15,7 @@
 ## 🛠 Skills & Technologies:
   
 *Programming:* Python, C++, C, Java, SQL  
-*Libraries:* Pandas, NumPy, Matplotlib  
+*Libraries:* Pyspark, Pandas, NumPy, Matplotlib  
 *Databases:* MySQL  
 *Tools:* Git, Jupyter Notebook, VS Code  
 
